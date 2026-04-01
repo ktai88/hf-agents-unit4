@@ -1,0 +1,5 @@
+smolagents
+requests
+python-dotenv
+huggingface_hub
+duckduckgo-search
