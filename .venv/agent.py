@@ -25,7 +25,7 @@ RULES (follow strictly):
 # # ── Model & Agent ────────────────────────────────────────
 # model = InferenceClientModel(
 #     # model_id="",
-#     # token=os.getenv("AIzaSyDkEZjtPsN1D-20UAurZMp7u1JNMkDm9dI")
+#     # token=os.getenv("")
 # )
 
 # agent = CodeAgent(
